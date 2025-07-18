@@ -1,0 +1,8 @@
+{
+  "name": "Lia: Tu Asistente Personal",
+  "description": "Chatea con Lia, un asistente de IA conversacional listo para responder a tus preguntas, ayudarte con tareas y conversar sobre cualquier tema. Potenciado por la nube para darte respuestas actualizadas y relevantes. ¡Ahora con control por voz!",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
