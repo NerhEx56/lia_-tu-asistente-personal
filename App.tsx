@@ -37,7 +37,7 @@ const App: React.FC = () => {
             <div className="bg-red-900/50 border border-red-500 p-8 rounded-lg">
                 <h1 className="text-2xl font-bold text-red-300 mb-4">Error de Configuración</h1>
                 <p className="text-red-200">{error}</p>
-                <p className="text-gray-400 mt-4 text-sm">Por favor, asegúrate de que la variable de entorno API_KEY esté configurada correctamente y recarga la página.</p>
+                <p className="text-gray-400 mt-4 text-sm">Por favor, asegúrate de haber insertado tu API Key en el archivo `services/geminiService.ts` y recarga la página.</p>
             </div>
         </div>
     );
